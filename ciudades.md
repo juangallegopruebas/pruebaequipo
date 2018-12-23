@@ -5,3 +5,4 @@
 3. Hell's Kitchen
 4. Medellín
 5. Cali
+6. Baranquilla
