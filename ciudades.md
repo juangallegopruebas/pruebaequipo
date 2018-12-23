@@ -6,3 +6,4 @@
 4. Medellín
 5. Cali
 6. Baranquilla
+7. Bogotá
