@@ -7,3 +7,4 @@
 5. Cali
 6. Baranquilla
 7. Bogotá
+8. Pereira
